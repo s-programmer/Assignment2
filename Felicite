@@ -1,0 +1,22 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package javaapplication9;
+
+import java.util.Scanner;
+public class JavaApplication9 {
+public static void main(String[] args) {
+    else if(number ==2){
+   System.out.println("Enter the name of book 1");
+   Scanner input=new Scanner (System.in);
+   book1=input.nextLine();
+   System.out.println("Enter the name of book 2");
+   Scanner inputs=new Scanner (System.in);
+           book2=inputs.nextLine();
+           System.out.println("Book one is \n"+book1+ " \n Book two is \n"+book2 );
+           break;
+   }
+    }
+    
+}
